@@ -1,0 +1,15 @@
+Parameter,Parameter_Value,Optimal_Q,Expected_Profit
+P(High Demand),0.05,80,2926.71
+P(High Demand),0.1,81,2945.36
+P(High Demand),0.15,82,2961.37
+P(High Demand),0.2,83,2979.66
+P(High Demand),0.25,84,3002.29
+P(High Demand),0.3,85,3030.42
+P(High Demand),0.35,86,3055.12
+P(High Demand),0.4,88,3085.56
+P(High Demand),0.45,92,3130.28
+Purchase Cost,40.0,94,4724.67
+Purchase Cost,50.0,87,3826.17
+Purchase Cost,60.0,83,2979.1
+Purchase Cost,70.0,79,2170.6
+Purchase Cost,80.0,75,1397.24
